@@ -26,6 +26,7 @@ Stop thinking start contributing to leetcode solution
 - [GroupAnagrams](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/GroupAnagrams.java)
 - [NumberOfIslands](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/NumberOfIslands.java)
 - [MaximumProductOfWordLengths](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/MaximumProductOfWordLengths.java)
+- [ReconstructItinerary](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/ReconstructItinerary.java)
 
 ### Hard
 
