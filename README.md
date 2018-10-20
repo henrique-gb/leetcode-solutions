@@ -19,6 +19,7 @@ Stop thinking start contributing to leetcode solution
 - [Parentheses](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/Parentheses.java)
 - [PlusOne](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/PlusOne.java)
 - [MinStack](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/MinStack.java)
+- [TwoSum](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/TwoSum.java)
 
 ### Medium
 
